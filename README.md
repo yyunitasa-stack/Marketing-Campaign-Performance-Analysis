@@ -3,9 +3,9 @@
 ---
 
 ## 🗂️ Project Overview
-Kampanye pemasaran berperan penting dalam mendorong pembelian dan meningkatkan pendapatan. Oleh karena itu, diperlukan analisis untuk mengevaluasi efektivitas campaign pemasaran serta memahami kontribusinya dalam mendorong konversi pembelian.
+Marketing campaign berperan penting dalam mendorong konversi pembelian dan meningkatkan pendapatan e-commerce. Oleh karena itu, diperlukan analisis untuk mengevaluasi efektivitas campaign dibandingkan aktivitas tanpa campaign serta mengidentifikasi peluang untuk mengoptimalkan strategi pemasaran.
 
-Project ini menganalisis performa marketing campaign e-commerce menggunakan dataset sintetis. PostgreSQL digunakan untuk pengolahan data, sedangkan Power BI digunakan untuk visualisasi hasil analisis. Analisis mencakup perbandingan performa kampanye berdasarkan channel dan objective, evaluasi tahapan conversion funnel, serta identifikasi peluang untuk mengoptimalkan strategi pemasaran berdasarkan temuan berbasis data.
+Project ini menganalisis data sintetis e-commerce menggunakan PostgreSQL untuk mengevaluasi performa campaign, efektivitas marketing channel, conversion funnel, hubungan diskon dengan pembelian dan refund, serta kontribusi segmen pelanggan. Hasil analisis divisualisasikan menggunakan Power BI untuk mendukung identifikasi peluang peningkatan performa pemasaran berdasarkan data.
 
 **Business Questions**
 
@@ -67,7 +67,7 @@ Dilakukan pemeriksaan dan perbaikan kualitas data sebagai berikut sebelum dilaku
 ---
 
 ## 🔗 Read More
-- **💾 Dataset:** [Amazon E-Commerce Sales Dataset - Kaggle]()
-- **🧹 Data Cleaning on Python:** [Step by Step Data Cleaning - Notebook]()
-- **🔬 Exploratory Data Analysis:** [View Notebook]()
-- **📊 Dashboard:** [View Dashboard]()
+- **💾 Dataset:** [Marketing & E-Commerce Analytics Dataset - Kaggle]()
+- **🧹 Data Cleaning on Python:** [Step by Step Data Cleaning - SQL Queries]()
+- **🔬 Exploratory Data Analysis:** [View SQL Queries]()
+- **📊 Dashboard:** [View Dashboard - Power BI]()
